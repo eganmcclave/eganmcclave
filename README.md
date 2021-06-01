@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Egan <@eganmcclave>
-- 👀 I’m interested in data science and integrating them into production for standalone applications.
+- 👀 I’m interested in data science and integrating analytics into production for standalone applications.
 - 🌱 I’m currently learning about smart contracts, animated web dev and financial time series.
 - 💞️ I’m looking to collaborate on anything related to Cryptocurrencies.
 - 📫 How to reach me eganmcclave [at] yahoo [dot] com
